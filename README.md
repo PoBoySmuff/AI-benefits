@@ -4,6 +4,8 @@ This took like 10 minutes of prompting after a 15m video.
 
 I'm in shock.
 
+The future of programming may be visual design.
+
 For funsies here's the AI-generated README.md. 
 
 ----------------------------------------------------------------------
